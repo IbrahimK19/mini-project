@@ -1,0 +1,13 @@
+{
+  "name": "p2p-watch-party",
+  "version": "1.0.0",
+  "description": "Decentralized P2P Watch Party",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
+  }
+}
